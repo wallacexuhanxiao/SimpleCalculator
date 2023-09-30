@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="solid_purple">#FFFF00FF</color>
+    <color name="hollow_purple">#88FF00FF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="green">#FF00FF00</color>
+    <color name="qingse">#FF00FFFF</color>
+    <color name="yellow">#FFffff00</color>
+    <color name="hollow_blue">#8f0000FF</color>
+    <color name="dark_green">#FF339910</color>
+    <color name="potato">#FFD766</color>
+    <color name="grey">#FF808A87</color>
+    <color name="meat">#ffFF908a</color>
+</resources>
